@@ -1,0 +1,72 @@
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    color: cornflowerblue;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.form {
+    align-content: center;
+    margin-left: 35%;
+    margin-top: 30px;
+}
+
+.user-input {
+    width: 200px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.search {
+    padding: 10px;
+    color: white;
+    background-color: cornflowerblue;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.next {
+    margin-left: 40%;
+    margin-top: 40px;
+    padding: 10px;
+    color: cornflowerblue;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 24px;
+    align-content: center;
+}
+
+.notification {
+    display: block;
+    color: red;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 35%;
+}
+
+.gists-list {
+    margin-left: 100px;
+    font-size: 18px;
+    color: cornflowerblue;
+}
+
+.subtitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: cornflowerblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.file-content {
+    white-space: pre;
+    font-size: 14px;
+    color: #282c34;
+    margin-left: 40px;
+    display: block;
+    width: 70%;
+}
+
